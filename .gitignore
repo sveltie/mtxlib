@@ -1,0 +1,7 @@
+.vscode
+
+# Compiled Object files
+*.out
+*.slo
+*.lo
+*.o
