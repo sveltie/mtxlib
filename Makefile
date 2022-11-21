@@ -5,8 +5,8 @@ CC = g++
 CFLAGS = -O2 -Wall
 
 # Target
-TARGET = matrix
-TARGET_PATH = ./src/matrix
+TARGET = out
+TARGET_PATH = ./test/test
 
 all: $(TARGET)
 
